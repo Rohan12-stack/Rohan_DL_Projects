@@ -1,6 +1,6 @@
 # Deep Learning Project
 
-![Project Screenshot](images/facial_emotion_detection_machine.jpeg)
+![Project Screenshot](facial_emotion_detection_machine.jpeg)
 
 
 !!! The repository is still a work in progress !!!
